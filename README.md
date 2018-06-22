@@ -4,4 +4,4 @@ In this project, I build a model that categorizes news articles into one of five
 
 The general outline of my project looks something like this:
 
-!('NLP TL News Cat.jpg')
+![project outline](https://github.com/Davi-Schumacher/nlp-embeddings/blob/master/NLP%20TL%20News%20Cat.jpg)
